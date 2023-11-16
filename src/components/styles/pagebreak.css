@@ -1,0 +1,5 @@
+.pagebreak {
+  background-color: var(--main-color);
+  height: 64px;
+  padding: 0;
+}

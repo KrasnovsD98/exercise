@@ -1,0 +1,25 @@
+:root {
+  --header-color: #1e1a14;
+  --yellow-color: #f1f252;
+  --main-color: #efece7;
+}
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", "sans-serif";
+}
+
+.wrapper {
+  max-width: 1360px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+}
